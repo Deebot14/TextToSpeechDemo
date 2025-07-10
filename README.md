@@ -7,7 +7,7 @@ Java
 ## App Overview
 The app allows users to enter text into an input field and tap a button to hear the text spoken out loud using Android’s TextToSpeech engine.
 
-## Core Features
+## Features
 - ### Text-to-Speech Functionality
  Uses Android’s TextToSpeech API to convert user input into audible speech.
 
